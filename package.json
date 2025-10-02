@@ -1,0 +1,12 @@
+{
+    "name": "project-shionne",
+    "version": "0.1.0",
+    "description": "",
+    "scripts": {
+      "start": "echo ''",
+      "dev": "echo ''"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+  }
+  
