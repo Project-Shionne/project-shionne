@@ -1,15 +1,21 @@
-# Project Shionne
-
-```plaintext
+```
 /project-shionne
-├── images/
-│   ├── main_character/
-│   ├── environments/
-│   └── animated/
-├── music/
-│   ├── lofi_geisha/
-│   ├── ambient_zen/
-│   └── extras/
-├── videos/
-├── README.md
-└── LICENSE
+/
+├── assets/                
+│   ├── images/            
+│   │   ├── character/
+│   │   ├── environments/
+│   │   └── animated/
+│   ├── music/             
+│   │   ├── lofi_geisha/
+│   │   ├── ambient_zen/
+│   │   └── extras/
+│   └── ...           
+│
+├── web/                   
+│   ├── pages/             # single playlist page
+│   ├── components/        # header/footer/ui
+│   └── ...
+│
+├── README.md              
+└── LICENSE                
