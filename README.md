@@ -12,10 +12,11 @@
 │   │   └── extras/
 │   └── ...           
 │
-├── web/                   
-│   ├── pages/             # single playlist page
-│   ├── components/        # header/footer/ui
-│   └── ...
+├── web/  
+│   ├── app           
+│       ├── page.tsx           # playlist 
+│       ├── components/        # header/footer/ui
+│       └── ...
 │
 ├── README.md              
 └── LICENSE                
