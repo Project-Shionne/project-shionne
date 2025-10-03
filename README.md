@@ -1,7 +1,7 @@
 ```
 /project-shionne
 /
-├── assets/                
+├── archive/                
 │   ├── images/            
 │   │   ├── character/
 │   │   ├── environments/
